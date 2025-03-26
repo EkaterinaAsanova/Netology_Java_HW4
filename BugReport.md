@@ -5,8 +5,11 @@
 Название переменной Percent в классе BonusService начинается с заглавной буквы
 
 ## Локация дефекта
+Netology_Java_HW4/src/main/java/BonusService.java
 
+Line 3 in c1ce1d3
 
+ int Percent = registered ? 3 : 1; 
 
 
 ## Шаги воспроизведения
